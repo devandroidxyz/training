@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2143ff98_c3e831ad",
+        "filename": "test001.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1018397
+      },
+      "writtenOn": "2020-10-17T08:46:37Z",
+      "side": 1,
+      "message": "No Comment",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 2
+      },
+      "revId": "1196b46ca5b1065466facc5401b5715f2002c2df",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
